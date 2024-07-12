@@ -1,0 +1,4 @@
+- In this project we developed a machine learning model to predict the drinkability of water based on parameters such as pH, hardness, etc.
+- Implemented and compared various algorithms including Random Forest, K-Nearest Neighbors (KNN), Logistic Regression, and Support Vector Machine (SVM) etc.
+- Evaluated the accuracy and performance of each model to determine the most effective approach for predicting water quality.
+- Contributing to environmental health research by providing a tool for assessing water safety using machine learning techniques.
